@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Example Homepage
-description: This is an example for a "hero" homepage
+title: Start page
+description: A standard for documenting code for public administrations.
 lang: en
 ref: homepage
 permalink: /
