@@ -8,17 +8,14 @@ social-card: /assets/images/favicons/social-card.png
 ## Site name
 name:
   en: "A Jekyll theme"
-  it: "Un tema Jekyll"
 
 ## Site description
 description:
   en: "A website with a Jekyll theme"
-  it: "Sito di esempio per il tema Jekyll"
 
 ## Site author
 author:
-  en: "Digital Transformation Team"
-  it: "Team per la Trasformazione Digitale"
+  en: "The PublicCode.yml community"
 
 ## Social
 social-links:
@@ -40,10 +37,8 @@ social-links:
 ## Labels
 italian-version:
   en: "Italian version"
-  it: "Versione italiana"
 english-version:
   en: "English version"
-  it: "Versione inglese"
 cookie-policy-info:
   en: "This site uses technical, analytics and third-party cookies <br>By continuing to browse, you accept the use of cookies."
   it: "Questo sito utilizza cookie tecnici, analytics e di terze parti.<br>Proseguendo nella navigazione accetti l’utilizzo dei cookie."
